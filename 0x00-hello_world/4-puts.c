@@ -1,9 +1,9 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
  * main - A c  program that use puts function
  * Return: 0(success)
  */
-int main (void)
+int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
